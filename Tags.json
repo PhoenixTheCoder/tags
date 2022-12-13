@@ -13,23 +13,21 @@
     "Text3Active": false, 
     "BigTextActive": true, 
     "Size": "<size=225>" 
-               } 
+               },
+          { 
+            "id": 1, 
+           "UserID": "usr_14cd35a6-2707-45c6-8f50-60938fb7b245", 
+            "PlateText": "<b><color=#000000>Nigger</color> | <b><color=#000000>I hate blacks</color>", 
+            "PlateText2": "<b><color=#800080>Shadow Client Member</color> | <color=#Ff0000>EAC</color></b> <color=#00ff00>Melon</color></b>", 
+            "PlateText3": "<b><color=#A83f39>I farted</color><b>", 
+            "PlateBigText": "<b><color=#A83f39>Really nigga?</color><b>", 
+            "Malicious": true, 
+            "Active": true, 
+            "TextActive": false, 
+            "Text2Active": false, 
+            "Text3Active": false, 
+            "BigTextActive": true, 
+            "Size": "<size=225>" 
+                       } 
             ] 
-          },
-  { 
-    "id": 1, 
-   "UserID": "usr_14cd35a6-2707-45c6-8f50-60938fb7b245", 
-    "PlateText": "<b><color=#000000>Nigger</color> | <b><color=#000000>I hate blacks</color>", 
-    "PlateText2": "<b><color=#800080>Shadow Client Member</color> | <color=#Ff0000>EAC</color></b> <color=#00ff00>Melon</color></b>", 
-    "PlateText3": "<b><color=#A83f39>I farted</color><b>", 
-    "PlateBigText": "<b><color=#A83f39>Really nigga?</color><b>", 
-    "Malicious": true, 
-    "Active": true, 
-    "TextActive": false, 
-    "Text2Active": false, 
-    "Text3Active": false, 
-    "BigTextActive": true, 
-    "Size": "<size=225>" 
-               } 
-            ] 
-          },
+}
