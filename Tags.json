@@ -8,11 +8,11 @@
     "PlateBigText": "<b><color=#A83f39>Breab <3</color><b>", 
     "Malicious": true, 
     "Active": true, 
-    "TextActive": false, 
-    "Text2Active": false, 
-    "Text3Active": false, 
+    "TextActive": true, 
+    "Text2Active": true, 
+    "Text3Active": true, 
     "BigTextActive": true, 
-    "Size": "<size=225>" 
+    "Size": "<size=102>" 
                },
           { 
             "id": 1, 
@@ -23,11 +23,11 @@
             "PlateBigText": "<b><color=#A83f39>Really nigga?</color><b>", 
             "Malicious": true, 
             "Active": true, 
-            "TextActive": false, 
-            "Text2Active": false, 
-            "Text3Active": false, 
+            "TextActive": true, 
+            "Text2Active": true, 
+            "Text3Active": true, 
             "BigTextActive": true, 
-            "Size": "<size=225>" 
+            "Size": "<size=102>" 
                        } 
             ] 
 }
