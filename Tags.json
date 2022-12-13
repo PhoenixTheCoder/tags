@@ -12,7 +12,7 @@
     "Text2Active": true, 
     "Text3Active": true, 
     "BigTextActive": true, 
-    "Size": "<size=102>" 
+    "Size": "<size=80>" 
                },
           { 
             "id": 1, 
@@ -27,7 +27,7 @@
             "Text2Active": true, 
             "Text3Active": true, 
             "BigTextActive": true, 
-            "Size": "<size=102>" 
+            "Size": "<size=80>" 
                        } 
             ] 
 }
